@@ -1,3 +1,6 @@
+Nov 25, 2025 - V7.0.9
+• I believe I fixed the 'cannot execute' issue on mobile.
+
 Nov 24, 2025 - V7.0.8
 • Fixed all current dragging issues.
 • Added 'lockhome' command.
