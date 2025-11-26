@@ -1,3 +1,7 @@
+Nov 26, 2025 - V7.1.3
+• Added 'wfwl' command, which lets you add players to the WalkFling Whitelist (they won't be flung when you're walking).
+• Added 'unwfwl' command, which lets you remove players from the WalkFling Whitelist (they can be flung).
+
 Nov 25, 2025 - V7.0.9
 • I believe I fixed the 'cannot execute' issue on mobile.
 
