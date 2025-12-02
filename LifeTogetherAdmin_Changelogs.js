@@ -1,3 +1,6 @@
+Dec 2nd, 2025 - V7.1.4
+• Attempted to fix CommandBar GUI for mobile + fixed issues with it too.
+
 Nov 26, 2025 - V7.1.3
 • Added 'wfwl' command, which lets you add players to the WalkFling Whitelist (they won't be flung when you're walking).
 • Added 'unwfwl' command, which lets you remove players from the WalkFling Whitelist (they can be flung).
