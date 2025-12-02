@@ -1,3 +1,6 @@
+Dec 2nd, 2025 - V7.1.5
+• Added 'streamermode' command, which allows you to hide your username everywhere while recording/streaming.
+
 Dec 2nd, 2025 - V7.1.4
 • Attempted to fix CommandBar GUI for mobile + fixed issues with it too.
 
