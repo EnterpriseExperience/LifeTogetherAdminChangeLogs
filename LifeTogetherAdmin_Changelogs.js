@@ -1,3 +1,8 @@
+Dec 3rd, 2025 - V7.1.8
+• Attempted to fix the in-game Phone disappearing on Mobile.
+• Solved some issues with Command Assistance GUI.
+• Fixed positioning with the Commands Menu GUI on Mobile devices.
+
 Dec 2nd, 2025 - V7.1.5
 • Added 'streamermode' command, which allows you to hide your username everywhere while recording/streaming.
 
