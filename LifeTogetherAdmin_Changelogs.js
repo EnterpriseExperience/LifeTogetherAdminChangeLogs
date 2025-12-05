@@ -1,3 +1,6 @@
+Dec 4th, 20225 - V7.1.9
+• Added a notification to the Admin, so if the current executor is a low level executor, it will say it does not work on that executor (like Solara, Xeno, etc).
+
 Dec 3rd, 2025 - V7.1.8
 • Attempted to fix the in-game Phone disappearing on Mobile.
 • Solved some issues with Command Assistance GUI.
