@@ -1,7 +1,7 @@
 Dec 6th, 2025 - V7.2.3
 • I have not been playing Roblox since all the exploits/cheats/hacks for Windows (my platform) are down and I cannot do much.
 • Brought back the announcement system for big/huge/important changes.
-• Hopefully solved the in-game Phone disappearance issue on Mobile with this new CommandBar system.
+• Hopefully solved the in-game Phone disappearance issue on Mobile with this new and improved CommandBar system.
 
 Dec 4th, 2025 - V7.1.9
 • Added a notification to the Admin, so if the current executor is a low level executor, it will say it does not work on that executor (like Solara, Xeno, etc).
