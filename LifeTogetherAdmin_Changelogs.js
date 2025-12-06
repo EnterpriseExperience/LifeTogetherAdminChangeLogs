@@ -1,3 +1,7 @@
+Dec 6th, 2025 - V7.2.5
+• Severely changed the loading intro screen, looks way better now.
+• Made some minor advancements in some backend code.
+
 Dec 6th, 2025 - V7.2.3
 • I have not been playing Roblox since all the exploits/cheats/hacks for Windows (my platform) are down and I cannot do much.
 • Brought back the announcement system for big/huge/important changes.
