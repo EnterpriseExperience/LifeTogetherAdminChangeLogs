@@ -1,3 +1,9 @@
+Dec 17th, 2025 - V7.3.3
+• I know I don't update this script anymore, but I'll maybe come back to it one day.
+• Fixed script version issues and the script reloading on it's own randomly.
+• Severely reduced clutter and improved performance.
+• Added a warning message for when you send bad messages in chat like "wtf" or "wdf" or "tf", it'll appear on-screen for about 5-10 seconds.
+
 Dec 6th, 2025 - V7.2.5
 • Severely changed the loading intro screen, looks way better now.
 • Made some minor advancements in some backend code.
