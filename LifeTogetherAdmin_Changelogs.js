@@ -1,3 +1,7 @@
+Dec 18th, 2025 - V7.3.5
+• Fixed update checking and updating, I forgot to set it dynamically, it was static lmfao.
+• Added actual "infyield" command (or you can do the command "loadiy" or "iy", now Infinite Premium is the command "infpremium" basically).
+
 Dec 17th, 2025 - V7.3.3
 • I know I don't update this script anymore, but I'll maybe come back to it one day.
 • Fixed script version issues and the script reloading on it's own randomly.
