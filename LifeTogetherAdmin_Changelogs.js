@@ -1,3 +1,6 @@
+Dec 18th, 2025 - V7.3.6
+• Fixed "orbit" command not working.
+
 Dec 18th, 2025 - V7.3.5
 • Fixed update checking and updating, I forgot to set it dynamically, it was static lmfao.
 • Added actual "infyield" command (or you can do the command "loadiy" or "iy", now Infinite Premium is the command "infpremium" basically).
