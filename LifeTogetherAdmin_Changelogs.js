@@ -1,3 +1,7 @@
+Decm 23rd, 2026 - V7.4.0
+• Added 'carfly' command, with optional speed argument.
+• Added 'uncarfly' command, which disables 'carfly'.
+
 Dec 18th, 2025 - V7.3.6
 • Fixed "orbit" command not working.
 
