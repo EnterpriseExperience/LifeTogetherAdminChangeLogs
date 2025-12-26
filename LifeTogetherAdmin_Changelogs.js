@@ -1,3 +1,7 @@
+Dec 26th, 2025 - V7.4.7
+• Fixed 'viewcar' function (I think?).
+• Fixed constant script related freezing/crashing issues on PC (sorry PC players, but also, my userbase is made up of like 90% mobile users lol).
+
 Dec 26th, 2025 - V7.4.5
 • Changed the Anti Outfit Stealer text.
 
