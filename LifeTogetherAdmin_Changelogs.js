@@ -1,4 +1,7 @@
-Decm 23rd, 2026 - V7.4.0
+Dec 26th, 2025 - V7.4.5
+• Changed the Anti Outfit Stealer text.
+
+Dec 23rd, 2025 - V7.4.0
 • Added 'carfly' command, with optional speed argument.
 • Added 'uncarfly' command, which disables 'carfly'.
 
