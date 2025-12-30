@@ -1,5 +1,5 @@
 Dec 30th, 2025 - V7.5.1
-• Fixed the Flames Hub title system, might be a bit broken right now though, it's a work in progress (WIP.
+• Fixed the Flames Hub title system, might be a bit broken right now though, it's a work in progress (WIP).
 • Fixed major internal lag, and reduced executor pressure, and improved overall stabilization (some FPS drops).
 • Fixed Flames Hub configuration GUI not creating more toggles after "NoSit".
 
