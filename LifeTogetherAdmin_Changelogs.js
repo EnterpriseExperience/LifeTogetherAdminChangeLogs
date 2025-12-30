@@ -1,3 +1,7 @@
+Dec 30th, 2025 - V7.5.3
+• Fixed the Flames Hub title system again.
+• Added back the settings for turning it off/on, and what not.
+
 Dec 30th, 2025 - V7.5.1
 • Fixed the Flames Hub title system, might be a bit broken right now though, it's a work in progress (WIP).
 • Fixed major internal lag, and reduced executor pressure, and improved overall stabilization (some FPS drops).
