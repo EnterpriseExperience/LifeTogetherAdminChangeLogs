@@ -1,3 +1,6 @@
+Dec 30th, 2025 - V7.5.4
+• Added my latest Roblox username to the script, Roblox keeps deleting/alt detecting me (bruh).
+
 Dec 30th, 2025 - V7.5.3
 • Fixed the Flames Hub title system again.
 • Added back the settings for turning it off/on, and what not.
