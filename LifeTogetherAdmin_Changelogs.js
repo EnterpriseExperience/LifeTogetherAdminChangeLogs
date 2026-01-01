@@ -1,3 +1,6 @@
+January 1st, 2026 - V7.5.7
+• Pushed a fix for the CommandsMenu() GUI size on Mobile.
+
 Dec 30th, 2025 - V7.5.4
 • Added my latest Roblox username to the script, Roblox keeps deleting/alt detecting me (bruh).
 
