@@ -1,3 +1,7 @@
+January 1st, 2026 - V7.5.9
+• Added 'hidedelta' command, which will hide the lazy-made Delta icon button at the top (to hide that you're cheating).
+• Added 'unhidedelta' command, which will show the Delta icon button.
+
 January 1st, 2026 - V7.5.7
 • Pushed a fix for the CommandsMenu() GUI size on Mobile.
 
