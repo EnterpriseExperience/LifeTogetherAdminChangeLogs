@@ -1,3 +1,6 @@
+January 6th, 2026 - V7.6.1
+• Fixed not being able to close CommandsMenu() on PC, haven't been testing the script lately and I haven't been on, so I have never noticed this issue.
+
 January 1st, 2026 - V7.5.9
 • Added 'hidedelta' command, which will hide the lazy-made Delta icon button at the top (to hide that you're cheating).
 • Added 'unhidedelta' command, which will show the Delta icon button.
