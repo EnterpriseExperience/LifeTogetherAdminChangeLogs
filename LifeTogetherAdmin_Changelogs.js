@@ -1,5 +1,6 @@
 January 6th, 2026 - V7.6.2
 • Added new command 'stealcar Player' which allows you to input someones username or displayname like usual, but it'll automatically goto their vehicle, and get in it, so you can take it.
+• Shout out to 'imjustbeter100' on Roblox for the idea, if you want your ideas in the script, send them through with my feedback system.
 
 January 6th, 2026 - V7.6.1
 • Fixed not being able to close CommandsMenu() on PC, haven't been testing the script lately and I haven't been on, so I have never noticed this issue.
