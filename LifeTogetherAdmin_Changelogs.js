@@ -1,3 +1,6 @@
+January 7th, 2026 - V7.6.3
+• Added 'Flames - Nameless Admin' rewrite to the script (which has antifling, noclip, and way more commands).
+
 January 6th, 2026 - V7.6.2
 • Added new command 'stealcar Player' which allows you to input someones username or displayname like usual, but it'll automatically goto their vehicle, and get in it, so you can take it.
 • Shout out to 'imjustbeter100' on Roblox for the idea, if you want your ideas in the script, send them through with my feedback system.
