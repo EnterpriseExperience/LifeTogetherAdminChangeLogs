@@ -1,3 +1,7 @@
+January 15th, 2026 - V7.7.1
+• Added 'saveanim' command, play an emote / copy someones emote and it'll save it to my Flames Emotes GUI (which you can use to play emotes universally).
+• Shoutout to @imjustbeter100 (on Roblox) for this idea.
+
 January 7th, 2026 - V7.6.3
 • Added 'Flames - Nameless Admin' rewrite to the script (which has antifling, noclip, and way more commands).
 
