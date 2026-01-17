@@ -1,3 +1,7 @@
+January 17th, 2026 - V7.7.4
+• I'm proud to say Flames Hub | Admin now works on Velocity! (YES!)
+• Currently working on releasing some more fixes for commands and stuff in Flames Hub, stay tuned.
+
 January 15th, 2026 - V7.7.1
 • Added 'saveanim' command, play an emote / copy someones emote and it'll save it to my Flames Emotes GUI (which you can use to play emotes universally).
 • Shoutout to @imjustbeter100 (on Roblox) for this idea.
