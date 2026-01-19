@@ -1,3 +1,8 @@
+January 19th, 2026 - V7.7.7
+• Fixed updater not properly changing the versions.
+• Fixed Title Edit GUI appearing too large on some platforms.
+• Re-worked Command Bar system and put it back on all devices (theres a button for mobile too).
+
 January 17th, 2026 - V7.7.4
 • I'm proud to say Flames Hub | Admin now works on Velocity! (YES!)
 • Currently working on releasing some more fixes for commands and stuff in Flames Hub, stay tuned.
