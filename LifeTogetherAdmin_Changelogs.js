@@ -1,3 +1,6 @@
+January 19th, 2026 - V7.7.8
+• Fixed 'Anti Outfit Copier' command to do more than just change your bio, it'll actually protect your outfit fully now.
+
 January 19th, 2026 - V7.7.7
 • Fixed updater not properly changing the versions.
 • Fixed Title Edit GUI appearing too large on some platforms.
