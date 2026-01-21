@@ -1,3 +1,7 @@
+January 21st, 2026 - V7.7.9
+• Fixed title menu toggle button positioning for PC.
+• + Fixed the stupid looking lowercase lettering in the GUI.
+
 January 19th, 2026 - V7.7.8
 • Fixed 'Anti Outfit Copier' command to do more than just change your bio, it'll actually protect your outfit fully now.
 
