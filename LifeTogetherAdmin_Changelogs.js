@@ -1,3 +1,7 @@
+January 21st, 2026 - V7.8.0
+• Fixed CommandBar system, now also has a command history and works way more properly.
+• + (Also released hot-fix for mobile toggle button and included dragging).
+
 January 21st, 2026 - V7.7.9
 • Fixed title menu toggle button positioning for PC.
 • + Fixed the stupid looking lowercase lettering in the GUI.
