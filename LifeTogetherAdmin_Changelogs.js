@@ -1,3 +1,10 @@
+January 22nd, 2026 - V7.9.3
+• Fixed automatic updater to actually reload the script.
+• Fixed title system, actually works this time, no weird bs, allows for customization too.
+• Fixed positioning on GUIs for mobile and PC.
+• Added one time memory mini-game on the Feedback command to prevent spamming.
+• Fixed Anti Outfit Stealer not re-setting the proper toggles correctly.
+
 January 21st, 2026 - V7.8.0
 • Fixed CommandBar system, now also has a command history and works way more properly.
 • + (Also released hot-fix for mobile toggle button and included dragging).
