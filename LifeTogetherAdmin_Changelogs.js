@@ -1,3 +1,7 @@
+January 23rd, 2026 - V7.9.5
+• Added 'caresp' command which allows you to see any car from anywhere even through walls.
+• Added 'uncaresp' command, which disables 'caresp'
+
 January 22nd, 2026 - V7.9.3
 • Fixed automatic updater to actually reload the script.
 • Fixed title system, actually works this time, no weird bs, allows for customization too.
