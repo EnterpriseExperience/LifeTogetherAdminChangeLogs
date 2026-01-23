@@ -1,3 +1,6 @@
+January 23rd, 2026 - V7.9.6
+• Added 'ytmusic' command, which allows you to play music from YouTube in the game, NOT FE.
+
 January 23rd, 2026 - V7.9.5
 • Added 'caresp' command which allows you to see any car from anywhere even through walls.
 • Added 'uncaresp' command, which disables 'caresp'
