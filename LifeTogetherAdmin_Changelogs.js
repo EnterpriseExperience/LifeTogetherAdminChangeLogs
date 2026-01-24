@@ -1,4 +1,4 @@
-January 24th, 2026 - No Change
+January 24th, 2026 - V7.9.7
 • Shoutout to @jdkdjfjjfjff0 (on Roblox) for telling me the Vehicle Stats GUI was broken
 • If you want your idea in the script, or need to report a bug/issue send them through with the 'feedback' command.
 
