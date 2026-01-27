@@ -1,3 +1,8 @@
+January 27th, 2026 - V8.0.1
+• Added command 'friend' to the commands list, which allows you to friend any user in the game if you're not already friends with them.
+• Added command 'unfriend' to the commands list.
+• Fixed 'AntiFling' and it is now 'AntiFling-V3'.
+
 January 26th, 2026 - V7.9.9
 • Added 'nightvision' command, which lets you see like an army person I guess lol.
 • Added 'unnightvision' command, which disables the 'nightvision' command.
