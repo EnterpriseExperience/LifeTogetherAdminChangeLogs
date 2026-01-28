@@ -1,3 +1,8 @@
+January 28th, 2026 - V8.0.4
+• Added command 'fly3' which is an Adonis Admin Fly script, ripped almost from their system, but heavily undetected of course.
+• Added 'wseditor' command which allows you to add ESP/Xray/Hide/Unhide any part/model you want in the game.
+• Fixed some weird internal Framework issues causing problems, not sure how I didn't see them before.
+
 January 27th, 2026 - V8.0.1
 • Added command 'friend' to the commands list, which allows you to friend any user in the game if you're not already friends with them.
 • Added command 'unfriend' to the commands list.
