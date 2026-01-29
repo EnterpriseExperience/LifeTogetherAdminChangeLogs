@@ -1,3 +1,8 @@
+January 29th, 2026 - V8.0.7
+• Added back 'ban [Player]' command, which allows you to ban people from your Private Server (FE).
+• Added back 'unban [Player]' command, which allows you unban people from your Private Server (FE).
+• Works even if they're not in the game too (you can enter full usernames).
+
 January 29th, 2026 - V8.0.5
 • Fixed logging, now it is completely disabled, allowing you to save your FPS, and control your experience even more than before.
 • (Basically reduced clutter).
