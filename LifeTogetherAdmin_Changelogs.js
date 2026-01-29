@@ -1,3 +1,7 @@
+January 29th, 2026 - V8.0.5
+• Fixed logging, now it is completely disabled, allowing you to save your FPS, and control your experience even more than before.
+• (Basically reduced clutter).
+
 January 28th, 2026 - V8.0.4
 • Added command 'fly3' which is an Adonis Admin Fly script, ripped almost from their system, but heavily undetected of course.
 • Added 'wseditor' command which allows you to add ESP/Xray/Hide/Unhide any part/model you want in the game.
